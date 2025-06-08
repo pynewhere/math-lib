@@ -13,13 +13,13 @@ A comprehensive Go math library that provides various mathematical operations an
 ## Installation
 
 ```bash
-go get github.com/yourusername/math-lib
+go get github.com/pynewhere/math-lib
 ```
 
 ## Usage
 
 ```go
-import "github.com/yourusername/math-lib"
+import "github.com/pynewhere/math-lib"
 
 // Basic operations
 result := basic.Add(10, 5)
